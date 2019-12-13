@@ -24,3 +24,10 @@ nav a {
   width: 800px;
   text-align: center;
 }
+
+div {
+  text-align: center;
+  width: 25%;
+  background-color: red;
+  
+}
